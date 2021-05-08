@@ -1,4 +1,4 @@
-# Strom_breaker
+# augmented random search
 augmented random search
 A common belief in model-free reinforcement learning is that methods based on random search in the parameter space of policies 
 exhibit signiﬁcantly worse sample complexity than those that explore the space of actions. We dispel such beliefs by introducing 
